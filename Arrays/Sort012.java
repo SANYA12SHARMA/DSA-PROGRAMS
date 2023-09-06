@@ -1,4 +1,6 @@
-
+//Brute force: sorting algorithm O(nlogn)
+//better approach: have a count of 3 variables and then use a for loop
+//optimal approach: have an extreme left,extreme right and middle below approach
 class Solution
 {
     public static void sort012(int a[], int n)
